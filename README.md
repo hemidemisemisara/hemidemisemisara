@@ -1,9 +1,5 @@
 <h1 align="center">Hello, I'm Sara 👩🏻‍💻 & 👩🏻‍🎨.</h1>
-<h3 align="center">I'm passionate about beautiful apps that help with productivity, organization and well-being.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemidemisemisara&label=Profile%20views&color=0e75b6&style=flat" alt="hemidemisemisara" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemidemisemisara" alt="hemidemisemisara" /></a> </p>
+<h3 align="left">I'm passionate about beautiful apps that help with productivity, organization and well-being.</h3>
 
 - 🔭 I’m currently working on [Penguins](https://github.com/hemidemisemisara/penguins)
 
